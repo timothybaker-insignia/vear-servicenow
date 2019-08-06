@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>admin_table_view</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-06 14:54:50</sys_created_on>
+        <sys_id>0153acaedb433300e16bd426ca961950</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>admin_table_view</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_page_0153acaedb433300e16bd426ca961950</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-06 14:56:59</sys_updated_on>
+        <title>Admin Table View</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=0153acaedb433300e16bd426ca961950"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="label" label="Label" language="en" table="x_368247_vear_tables">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>label</element>
+            <help/>
+            <hint/>
+            <label>Label</label>
+            <language>en</language>
+            <name>x_368247_vear_tables</name>
+            <plural>Labels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-06 14:23:49</sys_created_on>
+            <sys_id>723c582adb433300e16bd426ca9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Label</sys_name>
+            <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+            <sys_update_name>sys_documentation_x_368247_vear_tables_label_en</sys_update_name>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-06 14:23:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>true</default>
+        <homepage display_value="vear">8bdce38edb433300e16bd426ca961979</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Security Header Menu">335c900853321300a8ed21fac2dc342c</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-05 16:17:02</sys_created_on>
+        <sys_id>914ceb0edb433300e16bd426ca96196e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>VEAR</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_portal_914ceb0edb433300e16bd426ca96196e</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-06 20:15:51</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>VEAR</title>
+        <url_suffix>vear</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=914ceb0edb433300e16bd426ca96196e"/>
+</record_update>

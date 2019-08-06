@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.col {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  width: auto;
+  margin: auto;
+}
+
+.row {
+  display: table;
+	margin: auto;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.menu_item{
+  width: 200px;
+  height: 200px;
+}
+
+.centered{
+	margin: auto; 
+  width: 75%;
+  padding: 10px;
+}
+
+.centered-text{
+	text-align: center; 
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>vear_menu</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>VEAR Menu</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-05 17:38:00</sys_created_on>
+        <sys_id>251ffb4edb833300e16bd426ca9619f6</sys_id>
+        <sys_mod_count>61</sys_mod_count>
+        <sys_name>VEAR Menu</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_widget_251ffb4edb833300e16bd426ca9619f6</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-06 19:57:28</sys_updated_on>
+        <template><![CDATA[<div class="centered">
+  <div class="centered-text">
+    <h1>
+    	VEAR
+  	</h1>
+  </div>
+	<div class="row">
+  	<div class="col">
+			<button onclick="window.location='vasi';" class="menu_item">
+      	VASI
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+	</div>
+	<div class="row">
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+	</div>
+	<div class="row">
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+  	<div class="col">
+			<button class="menu_item">
+      	na
+    	</button>
+  	</div>
+	</div>
+</div>
+]]></template>
+    </sp_widget>
+</record_update>

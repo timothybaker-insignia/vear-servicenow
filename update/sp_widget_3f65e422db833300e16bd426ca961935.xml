@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function($scope, $rootScope, spUtil) {
+  var c = this;
+	$scope.showTable = false;
+	c.tableTitle = "";
+		
+	$scope.$on('data_table.click', callDataClick);
+	
+	$rootScope.$on('show-child-table', function(event, data){
+		c.tableTitle = data.record.label.value;
+		var tableOptions = $scope.data.tableOptions;
+	  tableOptions.table = data.record.table.value;
+		$scope.showTable = !$scope.showDefaultTable;
+		spUtil.get('widget-data-table', tableOptions).then(function(response){
+			$scope.data.tableWidget = response;
+		});
+	});
+	
+	window.navigateBack = function(event){
+		$scope.showTable = !$scope.showTable;
+		$rootScope.$broadcast('show-parent-table', {});
+	}
+	
+	function callDataClick(e, parms){
+		
+	}
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>admin_table_view</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Admin Table View</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+	data.tableOptions = {};
+	data.tableOptions.table = "";
+	data.tableOptions.filter = data.filter;
+	data.tableOptions.window_size=10;
+	data.tableOptions.view = "Default view";
+	data.tableOptions.headerTitle = " ";
+	data.tableOptions.enable_filter = false;
+	data.tableOptions.show_breadcrumbs = false;
+	data.tableOptions.show_keywords = false;
+	data.tableWidget = $sp.getWidget("widget-data-table", data.tableOptions);
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-06 15:04:02</sys_created_on>
+        <sys_id>3f65e422db833300e16bd426ca961935</sys_id>
+        <sys_mod_count>167</sys_mod_count>
+        <sys_name>Admin Table View</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_widget_3f65e422db833300e16bd426ca961935</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-06 18:59:11</sys_updated_on>
+        <template><![CDATA[<div ng-show="showTable">
+	<h1>
+		{{c.tableTitle}}
+  </h1>
+  <button onclick="navigateBack(event);">
+    &laquo; Back
+  </button>
+  <sp-widget widget="data.tableWidget"></sp-widget>
+</div>]]></template>
+    </sp_widget>
+</record_update>

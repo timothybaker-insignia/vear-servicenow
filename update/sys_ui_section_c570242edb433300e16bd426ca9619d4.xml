@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="c570242edb433300e16bd426ca9619d4" sys_domain="global" table="x_368247_vear_tables" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>0</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-06 14:42:18</sys_created_on>
+            <sys_id>a970642edb433300e16bd426ca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_368247_vear_tables" sys_domain="global" view="Default view">c570242edb433300e16bd426ca9619d4</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-06 14:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-06 14:42:18</sys_created_on>
+            <sys_id>2d70642edb433300e16bd426ca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_368247_vear_tables" sys_domain="global" view="Default view">c570242edb433300e16bd426ca9619d4</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-06 14:42:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_368247_vear_tables</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-06 14:42:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c570242edb433300e16bd426ca9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+            <sys_update_name>sys_ui_section_c570242edb433300e16bd426ca9619d4</sys_update_name>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-06 14:42:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
