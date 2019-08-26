@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_368247_vear_system</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-08 18:04:18</sys_created_on>
+        <sys_id>c4e16343db073300e16bd426ca961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_368247_vear_system</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c4e16343db073300e16bd426ca961989</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-08 18:04:18</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

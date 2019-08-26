@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_no_data_store_flag" label="No_Data_Store_Flag" language="en" table="x_368247_vear_system">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_no_data_store_flag</element>
+            <help/>
+            <hint/>
+            <label>No_Data_Store_Flag</label>
+            <language>en</language>
+            <name>x_368247_vear_system</name>
+            <plural>No_Data_Store_Flags</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:04:18</sys_created_on>
+            <sys_id>40e16343db073300e16bd426ca961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>No_Data_Store_Flag</sys_name>
+            <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+            <sys_update_name>sys_documentation_x_368247_vear_system_u_no_data_store_flag_en</sys_update_name>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:04:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_368247_vear_system</basic_apply_to>
+        <basic_query_from>x_368247_vear_stakeholder</basic_query_from>
+        <insert_callback/>
+        <name>Stakeholder</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	current.addQuery('name', parent.stakeholder);
+	current.addNotNullQuery('name');
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-08 14:54:01</sys_created_on>
+        <sys_id>5ed57ec7db433300e16bd426ca961952</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Stakeholder</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sys_relationship_5ed57ec7db433300e16bd426ca961952</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-08 15:13:26</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ed57ec7db433300e16bd426ca961952"/>
+</record_update>

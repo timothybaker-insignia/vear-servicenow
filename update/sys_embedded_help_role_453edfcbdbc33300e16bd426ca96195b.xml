@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_368247_vear.organizational_unit_user" name="x_368247_vear.organizational_unit_user">093edfcbdbc33300e16bd426ca961958</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-08 17:48:16</sys_created_on>
+        <sys_id>453edfcbdbc33300e16bd426ca96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>093edfcbdbc33300e16bd426ca961958</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_453edfcbdbc33300e16bd426ca96195b</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:48:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

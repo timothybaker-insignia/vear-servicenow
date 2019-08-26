@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="VEAR Header Menu">76ac971cdb533300e16bd426ca9619df</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-07 16:14:16</sys_created_on>
+        <sys_id>810f7176db833300e16bd426ca9619ed</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>VEAR Main Menu</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_instance_menu_810f7176db833300e16bd426ca9619ed</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-12 15:45:49</sys_updated_on>
+        <title>VEAR Main Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=810f7176db833300e16bd426ca9619ed"/>
+</record_update>

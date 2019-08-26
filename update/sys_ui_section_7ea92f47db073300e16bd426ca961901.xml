@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7ea92f47db073300e16bd426ca961901" sys_domain="global" table="x_368247_vear_stakeholder" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_created_date</element>
+            <position>0</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>faa96f87db073300e16bd426ca961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_guid</element>
+            <position>1</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>76a96f87db073300e16bd426ca961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_initial_time</element>
+            <position>2</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>faa96f87db073300e16bd426ca961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_updated_by</element>
+            <position>3</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>72a96f87db073300e16bd426ca961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_organizational_unit</element>
+            <position>4</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f6a96f87db073300e16bd426ca961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stakeholder_category</element>
+            <position>5</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7ea96f87db073300e16bd426ca961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f2a96f87db073300e16bd426ca961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_changerequest</element>
+            <position>7</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7aa96f87db073300e16bd426ca961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>fea96f87db073300e16bd426ca961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_workspaceid</element>
+            <position>9</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>76a96f87db073300e16bd426ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>faa96f87db073300e16bd426ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
+            <position>11</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>72a96f87db073300e16bd426ca96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_initial_audit</element>
+            <position>12</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f6a96f87db073300e16bd426ca96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_change_time</element>
+            <position>13</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7ea96f87db073300e16bd426ca96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_middle_initial</element>
+            <position>14</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f2a96f87db073300e16bd426ca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_relations</element>
+            <position>15</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7aa96f87db073300e16bd426ca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_title</element>
+            <position>16</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>fea96f87db073300e16bd426ca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>17</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>76a96f87db073300e16bd426ca96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_href</element>
+            <position>18</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>faa96f87db073300e16bd426ca96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_change_audit</element>
+            <position>19</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>72a96f87db073300e16bd426ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_updated_date</element>
+            <position>20</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f6a96f87db073300e16bd426ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone</element>
+            <position>21</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7ea96f87db073300e16bd426ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stakeholder_id</element>
+            <position>22</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>f2a96f87db073300e16bd426ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_created_by</element>
+            <position>23</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>7aa96f87db073300e16bd426ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_first_name</element>
+            <position>24</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>fea96f87db073300e16bd426ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_initial_date</element>
+            <position>25</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>76a96f87db073300e16bd426ca96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_name</element>
+            <position>26</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>faa96f87db073300e16bd426ca96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>27</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>3aa96f87db073300e16bd426ca96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>28</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>bea96f87db073300e16bd426ca96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_saversion</element>
+            <position>29</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>36a96f87db073300e16bd426ca96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_workspaceflags</element>
+            <position>30</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>baa96f87db073300e16bd426ca96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>31</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>32a96f87db073300e16bd426ca96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_element_id</element>
+            <position>32</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>b6a96f87db073300e16bd426ca96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_identity</element>
+            <position>33</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>3ea96f87db073300e16bd426ca96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>34</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>b2a96f87db073300e16bd426ca96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_change_date</element>
+            <position>35</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>3aa96f87db073300e16bd426ca96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_links</element>
+            <position>36</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>bea96f87db073300e16bd426ca96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_documents</element>
+            <position>37</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>36a96f87db073300e16bd426ca961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_suffix</element>
+            <position>38</position>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_id>baa96f87db073300e16bd426ca961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_368247_vear_stakeholder" sys_domain="global" view="Default view">7ea92f47db073300e16bd426ca961901</sys_ui_section>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_368247_vear_stakeholder</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>timothy.baker</sys_created_by>
+            <sys_created_on>2019-08-08 18:38:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ea92f47db073300e16bd426ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_368247_vear_stakeholder</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+            <sys_update_name>sys_ui_section_7ea92f47db073300e16bd426ca961901</sys_update_name>
+            <sys_updated_by>timothy.baker</sys_updated_by>
+            <sys_updated_on>2019-08-08 18:38:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

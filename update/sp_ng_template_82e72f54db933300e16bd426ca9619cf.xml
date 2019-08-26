@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="INSERT_OR_UPDATE">
+        <id>item-added-tooltipVear.html</id>
+        <sp_widget display_value="VEAR Header Menu">76ac971cdb533300e16bd426ca9619df</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-12 15:44:21</sys_created_on>
+        <sys_id>82e72f54db933300e16bd426ca9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item-added-tooltipVear.html</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_ng_template_82e72f54db933300e16bd426ca9619cf</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-12 15:44:21</sys_updated_on>
+        <template><![CDATA[<div ng-click="toggleCart()" class="item-added-tooltip">${Item has been added to your cart.}</div>]]></template>
+    </sp_ng_template>
+</record_update>

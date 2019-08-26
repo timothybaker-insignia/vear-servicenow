@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+	
+	var input = {};
+	input.action = "stakeholder query";
+	input.payload = {};
+	c.server.get(input).then(function(response){
+		console.log(response.data.payload);
+	});
+	
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>test_reference</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>test reference</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+	data.tableOptions = {};
+	data.tableOptions.table = "x_368247_vear_system";
+	data.tableOptions.filter = data.filter;
+	data.tableOptions.window_size=10;
+	data.tableOptions.view = "Default view";
+	data.tableOptions.headerTitle = " ";
+	data.tableOptions.enable_filter = false;
+	data.tableOptions.show_breadcrumbs = false;
+	data.tableOptions.show_keywords = false;
+		
+	if(input && input.action == "stakeholder query"){
+		var gr = new GlideRecord("x_368247_vear_system");
+		gr.addQuery("stakeholder_ref.name", "TestStakeHolder");
+		gr.query();
+		data.payload = {};
+		data.payload.was_successful = true;
+		if(gr.next()){
+			var gr2 = new GlideRecord("x_368247_vear_stakeholder");
+			gr2.addQuery("name", gr.getDisplayValue("stakeholder_ref"));
+			gr2.query();
+			if(gr2.next()){
+				for(var key in gr2){
+					console.log(key);
+					console.log(gr2.getDisplayValue(key));
+					data.payload[key] = gr2.getDisplayValue(key);
+				}
+			}
+			else{
+				console.log("no next value");
+			}
+		}
+	}
+	
+	data.tableWidget = $sp.getWidget('widget-data-table', data.tableOptions);
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-08 15:36:32</sys_created_on>
+        <sys_id>97008743db833300e16bd426ca9619f5</sys_id>
+        <sys_mod_count>51</sys_mod_count>
+        <sys_name>test reference</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_widget_97008743db833300e16bd426ca9619f5</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:12:51</sys_updated_on>
+        <template><![CDATA[<div>
+	<sp-widget widget="data.tableWidget"></sp-widget>
+</div>]]></template>
+    </sp_widget>
+</record_update>

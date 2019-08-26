@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>VEAR - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="vear">8bdce38edb433300e16bd426ca961979</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-07 14:07:14</sys_created_on>
+        <sys_id>ad0221badb033300e16bd426ca9619b6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>VEAR - Container 1</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_container_ad0221badb033300e16bd426ca9619b6</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-12 20:24:55</sys_updated_on>
+        <title/>
+        <width>container-fluid</width>
+    </sp_container>
+</record_update>

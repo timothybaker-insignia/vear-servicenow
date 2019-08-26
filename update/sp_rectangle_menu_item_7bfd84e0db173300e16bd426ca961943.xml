@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>VASI Glossary</label>
+        <order>130</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="vear">8bdce38edb433300e16bd426ca961979</sp_page>
+        <sp_rectangle_menu/>
+        <sp_rectangle_menu_item display_value="HELP">11bc08e0db173300e16bd426ca961982</sp_rectangle_menu_item>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-12 18:29:39</sys_created_on>
+        <sys_id>7bfd84e0db173300e16bd426ca961943</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>VASI Glossary</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_7bfd84e0db173300e16bd426ca961943</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-13 12:21:39</sys_updated_on>
+        <table/>
+        <type>page</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7bfd84e0db173300e16bd426ca961943"/>
+</record_update>

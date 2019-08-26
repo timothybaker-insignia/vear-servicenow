@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="INSERT_OR_UPDATE">
+        <id>modalLoginVear</id>
+        <sp_widget display_value="VEAR Header">695e3936db833300e16bd426ca9619bd</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-13 13:14:45</sys_created_on>
+        <sys_id>808f4438dbdf3300e16bd426ca96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>modalLoginVear</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_ng_template_808f4438dbdf3300e16bd426ca96199a</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-13 13:14:45</sys_updated_on>
+        <template><![CDATA[<div class="login_widget">
+  <sp-widget widget="data.loginWidget"></sp-widget>
+  <style>
+    .modal-content { border: 0px solid transparent; }
+  </style>
+</div>]]></template>
+    </sp_ng_template>
+</record_update>

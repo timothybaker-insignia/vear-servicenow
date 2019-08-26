@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$sp-logo-margin-x: 		15px !default;&#13;
+$sp-logo-margin-y:		5px !default;&#13;
+$sp-tagline-color:		$text-color !default;&#13;
+$navbar-inverse-bg: 	#000000 !default;&#13;
+$navbar-inverse-link-color: #bdc0c4 !default;&#13;
+$navbar-inverse-link-hover-color: #ffffff !default;&#13;
+$body-bg: 				#ffffff !default;&#13;
+$dropdown-link-disabled-color: #ccc;ffffff&#13;
+$sp-logo-max-height: 50px !default;&#13;
+$sp-logo-max-width: 400px !default; &#13;
+$sp-navbar-divider-color: #0c4879;&#13;
+$sp-navbar-divider-color-right: #0c88be;&#13;
+$sp-navbar-divider-height: 40px;&#13;
+$sp-navbar-height: 50px;&#13;
+$sp-header-height: $sp-navbar-divider-height + $sp-navbar-height;&#13;
+$sp-footer-height: 30px;&#13;
+$sp-sidenav-width-max: 250px;&#13;
+$sp-sidenav-width-min: 30px;&#13;
+$sp-transition-speed: 0.5s;</css_variables>
+        <footer display_value="VEAR Footer">e08ebdfedb433300e16bd426ca961908</footer>
+        <footer_fixed>true</footer_fixed>
+        <header display_value="VEAR Header">695e3936db833300e16bd426ca9619bd</header>
+        <name>VEAR</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>timothy.baker</sys_created_by>
+        <sys_created_on>2019-08-07 16:11:58</sys_created_on>
+        <sys_id>2e4ef536db833300e16bd426ca9619cd</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>VEAR</sys_name>
+        <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
+        <sys_update_name>sp_theme_2e4ef536db833300e16bd426ca9619cd</sys_update_name>
+        <sys_updated_by>timothy.baker</sys_updated_by>
+        <sys_updated_on>2019-08-15 17:30:44</sys_updated_on>
+    </sp_theme>
+</record_update>

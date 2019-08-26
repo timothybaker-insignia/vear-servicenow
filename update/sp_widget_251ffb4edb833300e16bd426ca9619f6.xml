@@ -3,19 +3,56 @@
         <category>custom</category>
         <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
         <controller_as>c</controller_as>
-        <css>.col {
-  display: inline-block;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-top: 20px;
+        <css>h1{
+	font-size: 3.5em;
+  font-weight: bold;
+  color: #303030;
+  padding-bottom: 10px;
+}
+
+font{
+  font-size: 1.0em;
+  font-weight: bold;
+	color: #303030; 
+}
+
+.right-float{
+	float: right; 
+}
+
+p{
+  font-size: 1.0em;
+  color: #303030;
+}
+
+.horizontal-borders {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+	border-bottom: 1px solid LightGray; 
+  border-top: 1px solid LightGray;
+}
+
+.col {
+  display: table-cell;
+	float: left;
+  width: auto;
+  margin: auto;
+}
+
+.col-right {
+  display: table-cell;
+	float: right;
   width: auto;
   margin: auto;
 }
 
 .row {
+  width: 100%;
   display: table;
 	margin: auto;
+  padding-bottom: 10px;
 }
 
 .row:after {
@@ -25,18 +62,34 @@
 }
 
 .menu_item{
-  width: 200px;
-  height: 200px;
+  width: auto;
+  height: auto;
+  background: transparent;
+  border: none;
+  padding: 10px;
+}
+
+.menu_item:hover{
+	background-color: LightGray;
+}
+
+.image{
+	width: 200px;
+  height: 140px;
 }
 
 .centered{
 	margin: auto; 
-  width: 75%;
   padding: 10px;
 }
 
 .centered-text{
 	text-align: center; 
+}
+
+.smart-shrink{
+ 	width: 95%;
+  height: auto;
 }</css>
         <data_table>sp_instance</data_table>
         <demo_data/>
@@ -57,71 +110,183 @@
         <sys_created_by>timothy.baker</sys_created_by>
         <sys_created_on>2019-08-05 17:38:00</sys_created_on>
         <sys_id>251ffb4edb833300e16bd426ca9619f6</sys_id>
-        <sys_mod_count>61</sys_mod_count>
+        <sys_mod_count>224</sys_mod_count>
         <sys_name>VEAR Menu</sys_name>
         <sys_package display_value="VEAR" source="x_368247_vear">c2a61bc2db033300e16bd426ca96190a</sys_package>
         <sys_policy/>
         <sys_scope display_value="VEAR">c2a61bc2db033300e16bd426ca96190a</sys_scope>
         <sys_update_name>sp_widget_251ffb4edb833300e16bd426ca9619f6</sys_update_name>
         <sys_updated_by>timothy.baker</sys_updated_by>
-        <sys_updated_on>2019-08-06 19:57:28</sys_updated_on>
-        <template><![CDATA[<div class="centered">
-  <div class="centered-text">
+        <sys_updated_on>2019-08-13 17:46:12</sys_updated_on>
+        <template><![CDATA[<div class="centered smart-shrink">
+  <div>
     <h1>
-    	VEAR
+    	VA Enterprise Architecture Repository (VEAR)
   	</h1>
+    <div class="horizontal-borders">
+    	<p>
+				VEAR provides a wealth of valueable information that describes VA business operations, capabilities, systems, services, and the IT capabilities that serve them.  VA leadership, staff, and stakeholders can access this authoritative information to help improve service delivery, increase interoperability, and make better use of resources.
+    	</p>
+    	<p>
+      	The VA EA is an evolving entity that is built through an ongoing collaborative effort between the VA's business and technology communities and the Office of Enterprise Architecture within the Office of Information and Technology (OIT).  As Agency goals, priorities, business needs, and plans change, the VA EA is updated to maintain its relevance as a transformation tool and authoritative information resource.
+    	</p>
+    </div>
   </div>
 	<div class="row">
   	<div class="col">
-			<button onclick="window.location='vasi';" class="menu_item">
-      	VASI
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="strategic-domain-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Strategic Domain</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
     	</button>
   	</div>
   	<div class="col">
-			<button class="menu_item">
-      	na
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="business-domain-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Business Domain</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
     	</button>
   	</div>
   	<div class="col">
-			<button class="menu_item">
-      	na
-    	</button>
-  	</div>
-	</div>
-	<div class="row">
-  	<div class="col">
-			<button class="menu_item">
-      	na
-    	</button>
-  	</div>
-  	<div class="col">
-			<button class="menu_item">
-      	na
-    	</button>
-  	</div>
-  	<div class="col">
-			<button class="menu_item">
-      	na
-    	</button>
-  	</div>
-	</div>
-	<div class="row">
-  	<div class="col">
-			<button class="menu_item">
-      	na
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="data-and-information-domain-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Data and Information Domain</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
     	</button>
   	</div>
   	<div class="col">
-			<button class="menu_item">
-      	na
+			<button onclick="window.location='vear?id=vasi';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="system-inventory-(VASI)-tile.png" class="image">
+          </div>
+          <div class="row">
+            <div class="col">
+            	<font> Systems Inventory (VASI)</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
+    	</button>
+  	</div>
+    <div class="col">
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="facilities-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Facilities </font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
     	</button>
   	</div>
   	<div class="col">
-			<button class="menu_item">
-      	na
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="security-domain-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Security Domain</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
     	</button>
   	</div>
-	</div>
+  	<div class="col">
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="organizations-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> Organization</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
+    	</button>
+  	</div>
+  	<div class="col">
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="vear-reports-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font>VEAR Reports</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
+    	</button>
+  	</div>
+    <div class="col">
+			<button onclick="window.location='vear';" class="menu_item">
+        <div class="row">
+          <div class="row">
+          	<img src="my-elements-tile.png" class="image">
+          </div>
+					<div class="row">
+            <div class="col">
+            	<font> My Elements</font>
+            </div>
+            <div class="col-right">
+            	<font> &#x2714;&#xFE0F;</font>
+            </div>
+          </div>
+        </div>
+    	</button>
+  	</div>
+  </div>
 </div>
 ]]></template>
     </sp_widget>
